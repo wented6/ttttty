@@ -19,37 +19,41 @@ const p4 = new D4.Client();
 
     console.log("oNNN1");
 p1.on('guildMemberAdd', member => {
-const fuli= member.guild.channels.get("561848010821337102");
+const fuli= member.guild.channels.get("564026597326454794");
 if(!fuli) return;
 if(fuli) {
-setTimeout(() => fuli.send(`**Ꮃelcome Ꭲo Ꮪerver Violet**`), 4000)
+setTimeout(() => fuli.send(`**W**elcoMe **T**o **G**ravity **S**erver .
+, **E**njoy .`), 4000)
 }
 });
 
    console.log("oNNN2");
 p2.on('guildMemberAdd', member => {
-const fuli= member.guild.channels.get("561848010821337102");
+const fuli= member.guild.channels.get("564026597326454794");
 if(!fuli) return;
 if(fuli) {
-setTimeout(() => fuli.send(`**Ꮃelcome Ꭲo Ꮪerver Violet**`), 3800)
+setTimeout(() => fuli.send(`**W**elcoMe **T**o **G**ravity **S**erver .
+, **E**njoy .`), 3800)
 }
 });
 
    console.log("oNNN3");
 p3.on('guildMemberAdd', member => {
-const fuli= member.guild.channels.get("561848010821337102");
+const fuli= member.guild.channels.get("564026597326454794");
 if(!fuli) return;
 if(fuli) {
-setTimeout(() => fuli.send(`**Ꮃelcome Ꭲo Ꮪerver Violet**`), 3600)
+setTimeout(() => fuli.send(`**W**elcoMe **T**o **G**ravity **S**erver .
+, **E**njoy .`), 3600)
 }
 });
 
    console.log("oNNN4");
 p4.on('guildMemberAdd', member => {
-const fuli= member.guild.channels.get("561848010821337102");
+const fuli= member.guild.channels.get("564026597326454794");
 if(!fuli) return;
 if(fuli) {
-setTimeout(() => fuli.send(`**Ꮃelcome Ꭲo Ꮪerver Violet**`), 3400)
+setTimeout(() => fuli.send(`**W**elcoMe **T**o **G**ravity **S**erver .
+, **E**njoy .`), 3400)
 }
 });
 
